@@ -9,7 +9,7 @@ same bytes.
 
 import os
 
-ENTRY = "Lovely planet, but the locals built a machine to see other worlds and use it to argue about breakfast. Three stars \u2014 would abduct again."
+ENTRY = "The locals put a flag on their moon, took a photo, and left. No gift shop, no queue, no return visit in fifty years. Two stars for follow-through."
 
 
 def main() -> None:

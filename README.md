@@ -8,9 +8,9 @@ A [make.fun](https://make.fun/bounty/u-swift-raven-16-alien-field-notes-the-two-
 
 ## The line
 
-> Lovely planet, but the locals built a machine to see other worlds and use it to argue about breakfast. Three stars — would abduct again.
+> The locals put a flag on their moon, took a photo, and left. No gift shop, no queue, no return visit in fifty years. Two stars for follow-through.
 
-136 characters, one clean joke from the alien's angle (no traffic, gravity, money or weather), with a verdict, a star rating and a closing remark.
+146 characters, one clean joke from the alien's angle (no traffic, gravity, money or weather), with a verdict, a star rating and a closing remark.
 
 ## How it works
 
